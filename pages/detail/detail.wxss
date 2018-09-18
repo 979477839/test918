@@ -1,0 +1,18 @@
+/* pages/detail/detail.wxss */
+.row{
+  display: flex;
+  line-height: 100rpx;
+  border-bottom: 1px solid gray;
+}
+.row label{
+  width:200rpx;
+  text-align: center;
+}
+.row input{
+  margin: 22rpx 0rpx;
+}
+button{
+ background: #ff9700;
+ margin: 10rpx 20rpx;
+ border-radius: 20rpx;
+}
